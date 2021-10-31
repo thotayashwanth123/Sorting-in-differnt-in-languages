@@ -1,3 +1,4 @@
+# This is a insertion sort in python
 def insertionSort(array):
     for itemCounter in range(len(array)):
         item = array[itemCounter]
