@@ -1,3 +1,4 @@
+// This is a bubble sort
 public class BubbleSort {
   
     public static void bubblesort(int array[]) {
